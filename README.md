@@ -1,3 +1,10 @@
+_*Note*: These are "model-ish" answers for this coursework, as I'm not using this
+any more and some people asked to see them. I haven't particularly tested this
+distribution, it is pretty much just my reference files pasted over the
+submission files._
+
+_These files are not supported, and this work is no longer active._
+
 HPCE 2015 - Coursework 1
 ========================
 
